@@ -1,10 +1,10 @@
-# Active Context: Next.js Starter Template
+# Active Context: AetherNova (NOVA-EATHER)
 
 ## Current State
 
-**Template Status**: ✅ Ready for development
+**Project Status**: ✅ APK v1.0.0 released
 
-The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. It's ready for AI-assisted expansion to build any type of application.
+AetherNova is a Next.js 16 web app with Capacitor integration for Android APK conversion. The first APK release (v1.0.0) has been built, signed, and uploaded to GitHub.
 
 ## Recently Completed
 
@@ -14,6 +14,10 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] ESLint configuration
 - [x] Memory bank documentation
 - [x] Recipe system for common features
+- [x] Next.js static export configuration
+- [x] Capacitor v6 integration for Android
+- [x] AetherNova-v1.0.0.apk built and signed
+- [x] APK uploaded to GitHub at `releases/AetherNova-v1.0.0.apk`
 
 ## Current Structure
 
@@ -85,3 +89,4 @@ export async function GET() {
 | Date | Changes |
 |------|---------|
 | Initial | Template created with base setup |
+| 2026-03-28 | Built AetherNova-v1.0.0.apk using Capacitor v6, signed, and pushed to GitHub releases/ |
