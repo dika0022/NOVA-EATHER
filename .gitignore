@@ -40,9 +40,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# android build artifacts
+# android Capacitor build artifacts
 /android/
 /android-sdk/
+
+# aether-nova has its own .gitignore
 
 # keep releases
 !releases/

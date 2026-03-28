@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aether &amp; Nova</string>
+    <string name="channel_name">Aether &amp; Nova Aktif</string>
+    <string name="channel_description">Dua robot kecil menemanimu</string>
+    <string name="notification_title">Aether &amp; Nova</string>
+    <string name="notification_text">Robot kecil aktif di layar</string>
+</resources>

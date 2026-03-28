@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aether_green">#4CAF50</color>
+    <color name="aether_green_dark">#388E3C</color>
+    <color name="aether_green_light">#81C784</color>
+    <color name="nova_blue">#1976D2</color>
+    <color name="nova_blue_dark">#1565C0</color>
+    <color name="nova_blue_light">#64B5F6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="eye_white">#FFFFFF</color>
+    <color name="zzz_color">#FFEB3B</color>
+    <color name="heart_red">#E91E63</color>
+    <color name="tear_blue">#42A5F5</color>
+    <color name="steam_gray">#9E9E9E</color>
+    <color name="question_orange">#FF9800</color>
+    <color name="rocket_orange">#FF5722</color>
+    <color name="rocket_yellow">#FFC107</color>
+    <color name="splash_background">#1A1A2E</color>
+</resources>
