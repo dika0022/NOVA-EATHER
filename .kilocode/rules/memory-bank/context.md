@@ -90,3 +90,4 @@ export async function GET() {
 |------|---------|
 | Initial | Template created with base setup |
 | 2026-03-28 | Built AetherNova-v1.0.0.apk using Capacitor v6, signed, and pushed to GitHub releases/ |
+| 2026-03-28 | Fixed gray screen bug: added page content, added trailingSlash to next.config.ts, rebuilt APK |
